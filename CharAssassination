@@ -4,5 +4,5 @@ public class CharAssassination
   {
     char ch = 'A' ;
     System.out.println("A char: " +  ch );
-  }
+  }vvvvv
 }
